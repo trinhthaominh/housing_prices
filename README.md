@@ -1,6 +1,6 @@
 # Mô tả về bộ dữ liệu 
 
-1. `Id`: Đây là một số duy nhất gán cho mỗi mục nhập trong tập dữ liệu. Thường không có ý nghĩa trong việc dự đoán giá nhà và thường được sử dụng chỉ để định danh mỗi mục nhập.
+1. `Id`: Đây là một số duy nhất gán cho mỗi mục nhập trong tập dữ liệu. 
 2. `MSSubClass`: Đây là loại của ngôi nhà và đại diện cho một loạt các tính năng liên quan đến loại cấu trúc. Ví dụ, một giá trị "60" có thể đại diện cho một ngôi nhà loại 2 tầng trở lên.
 3. `MSZoning`: Đây là phân khu của ngôi nhà, nó cho biết khu vực dự định sử dụng ngôi nhà, chẳng hạn như khu dân cư thương mại (Commercial) hoặc khu dân cư loại A (Agriculture).
 4. `LotFrontage`: Độ rộng của lô đất ở phía đường. Đây là chiều rộng của mặt tiền của lô đất.
