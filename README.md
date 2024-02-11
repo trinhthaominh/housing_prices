@@ -67,3 +67,8 @@
 65. `SaleType`: Loại giao dịch (ví dụ, bán qua môi giới, bán trực tiếp, v.v.).
 66. `SaleCondition`: Tình trạng của giao dịch (ví dụ, bán thường, bán nhanh, v.v.).
 67. `SalePrice`: Giá bán của ngôi nhà, đây là biến mục tiêu mà bạn muốn dự đoán hoặc phân tích.
+
+
+<details>
+  <summary>Mô tả bộ dữ liệu</summary>
+</details>
